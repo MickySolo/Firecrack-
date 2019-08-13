@@ -52,13 +52,13 @@ more tools: :point_down:<br>
 * `help`
 
 ```
-NOTE:
+**NOTE:**
 
 1.before use facebook random attack, edit file "nano module/wordlist.txt" and add your wordlist minim of 5 line
 2.before use firecrack deface, put your deface script one folder with firecrack.py
 ```
 
-# support us (can you donate something)
+# support us (donate us to proceed)
 
 <a href="https://spectrocoin.com/en/integration/buttons/49591-LEVCwvjS7p.html" style="display:inline-block;padding: 12px 15px; font-weight: 800; font-size: 18px; text-transform: uppercase; text-align: center; background-color: rgb(39, 88, 119); border: 0px none rgb(51, 51, 51); border-radius: 0px; color: #fff;">
 <span>Donate</span>
